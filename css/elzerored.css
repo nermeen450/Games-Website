@@ -1,0 +1,6 @@
+:root{
+    --section-color:rgb(245, 71, 71);
+}
+.landing::before, .gallery ,.testimonials{
+  background-color: var(--section-color);
+}
